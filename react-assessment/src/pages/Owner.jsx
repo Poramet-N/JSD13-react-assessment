@@ -21,7 +21,7 @@ function Owner() {
         </p>
       </div>
     </div>
-  );
-}
+  )
+};
 
 export default Owner;
